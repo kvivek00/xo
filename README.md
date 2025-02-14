@@ -1,2 +1,2 @@
 # xo
-xo game
+xo game (two player)
